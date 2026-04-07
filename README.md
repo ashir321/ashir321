@@ -2,7 +2,7 @@
 <h3 align="center">Product Management • AI • Developer</h3>
 
 <p align="center">
-  <img src="https://Ashir" alt="banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff99&height=200&section=header&text=ASHIR.NET&fontSize=45&fontColor=00ff99&animation=fadeIn" />
 </p>
 
 ---
