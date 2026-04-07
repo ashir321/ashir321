@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ashir👋</h1>
+<h3 align="center">Product Management • AI • Developer</h3>
 
-<!--
-**ashir321/ashir321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://Ashir" alt="banner" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,ai,kubernetes,docker,jenkins,python,git,gitlab,github,linux,ubuntu,kafka,elasticsearch" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashir321&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashir321E&layout=compact" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashir321" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/skashiruddin/">LinkedIn</a> •
+</p>
+
+---
+
+## ✨ Fun Facts
+- I love football and cricket.
+- I enjoy building AI and product-focused projects.
