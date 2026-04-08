@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ashir👋</h1>
-<h3 align="center">Tech Lead • Architect • AI Enthusiast 🤖 • DevSecOps Engineer 🤿--> Platform Engineering 🔨 • Automating cloud ☁️ | Securing platforms 🔐 | Scaling AI 🚀Developer By Hobbie</h3>
+<h3 align="center">Tech Lead • Architect • AI Enthusiast 🤖 • DevSecOps Engineer 🤿--> Platform Engineering 🔨 • Cloud Automation ☁️ | Securing platforms 🔐 | Scaling AI 🚀Developer By Hobbie</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff99&height=200&section=header&text=ASHIR.WORLD&fontSize=45&fontColor=00ff99&animation=fadeIn" />
