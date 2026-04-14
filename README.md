@@ -9,7 +9,7 @@
 
 ## 🛠 Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,ai,kubernetes,docker,jenkins,python,git,gitlab,github,linux,ubuntu,kafka,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,ai,kubernetes,docker,jenkins,python,git,gitlab,github,linux,ubuntu,kafka,elasticsearch,terraform,ansible" />
 </p>
 
 ---
