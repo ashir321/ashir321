@@ -1,0 +1,30 @@
+; ─────────────────────────────────────────────────────────────
+; Sample inventory.ini for airgap-prep.sh
+; Copy to inventory.ini and edit as needed.
+; All values shown below are the defaults.
+; ─────────────────────────────────────────────────────────────
+
+[versions]
+; Kubernetes minor version (used for the yum repo)
+kube_version     = 1.30
+; Exact RPM version string (leave empty to pull latest in the repo)
+kube_rpm_version =
+
+; containerd.io version
+containerd_version = 1.7.27
+
+; Calico manifest version
+calico_version = 3.29.3
+
+; Longhorn manifest version
+longhorn_version = 1.7.2
+
+[paths]
+; Where the bundle directory is created (relative or absolute)
+bundle_dir = bundle
+
+[images]
+; Extra images to pull (one per line, use newline continuation)
+; extra =
+;   registry.example.com/my-app:v1.0
+;   registry.example.com/sidecar:latest
