@@ -2,7 +2,7 @@
 # ─────────────────────────────────────────────────────────────
 # airgap-prep.sh
 #
-# Prepare artefacts for an air-gapped Kubernetes + Calico +
+# Prepare artifacts for an air-gapped Kubernetes + Calico +
 # Longhorn deployment on RHEL-family systems.
 #
 # Prerequisites (prep machine — must be RHEL / CentOS / Rocky):
@@ -204,6 +204,9 @@ info "Utility RPMs downloaded ✓"
 header "4/6  Container images"
 
 # Well-known image list for the chosen Kubernetes version.
+# When KUBE_RPM_VERSION is set it must be a full semver (e.g. 1.30.1);
+# the image tag is derived as "v<KUBE_RPM_VERSION>". When unset we
+# default to v<KUBE_VERSION>.0 (the .0 patch release).
 KUBE_IMG_TAG="v${KUBE_VERSION}.0"
 if [[ -n "$KUBE_RPM_VERSION" ]]; then
     KUBE_IMG_TAG="v${KUBE_RPM_VERSION}"
@@ -245,13 +248,15 @@ LONGHORN_IMAGES=(
 
 ALL_IMAGES=( "${CORE_IMAGES[@]}" "${CALICO_IMAGES[@]}" "${LONGHORN_IMAGES[@]}" )
 
-# Append any extra images from inventory
+# Append any extra images from inventory (comma or newline separated)
 if [[ -n "$EXTRA_IMAGES" ]]; then
     while IFS= read -r img; do
         img="$(echo "$img" | xargs)"
         [[ -n "$img" ]] && ALL_IMAGES+=("$img")
-    done <<< "$EXTRA_IMAGES"
+    done <<< "${EXTRA_IMAGES//,/$'\n'}"
 fi
+
+FAILED_IMAGES=()
 
 pull_and_save() {
     local image="$1"
@@ -267,6 +272,7 @@ pull_and_save() {
     info "Pulling $image …"
     if ! $CONTAINER_RT pull "$image" 2>&1 | tail -2; then
         warn "Failed to pull $image — skipping."
+        FAILED_IMAGES+=("$image")
         return 0
     fi
 
@@ -279,6 +285,14 @@ for img in "${ALL_IMAGES[@]}"; do
 done
 
 info "Container images saved ✓"
+
+if [[ ${#FAILED_IMAGES[@]} -gt 0 ]]; then
+    warn "The following images could NOT be pulled:"
+    for img in "${FAILED_IMAGES[@]}"; do
+        warn "  - $img"
+    done
+    warn "The bundle may be incomplete. Resolve the above before deploying."
+fi
 
 # ── 5. Manifests ────────────────────────────────────────────
 header "5/6  Manifests"
