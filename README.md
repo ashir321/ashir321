@@ -6,7 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=200&section=header&text=👨‍💻%20About%20Me&fontSize=45&fontColor=00ff99&animation=fadeIn" />
 </p>
 
-## 👨‍💻 About Me
 I am a DevOps & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms. My focus is on scalability, reliability, security, and automation across the delivery lifecycle.
 
 ---
