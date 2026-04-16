@@ -135,13 +135,6 @@
 
 ---
 
-<!-- ============ FOOTER WAVE ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=120&section=footer" />
-</p>
-
----
-
 ## 🛠 Languages and Tools
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,ai,kubernetes,docker,jenkins,python,git,gitlab,github,linux,ubuntu,kafka,elasticsearch,terraform,ansible" />
@@ -152,3 +145,9 @@
 ## ✨ Fun Facts
 - I love football and cricket.
 - I enjoy building AI and product-focused projects.
+
+---
+<!-- ============ FOOTER WAVE ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=120&section=footer" />
+</p>
