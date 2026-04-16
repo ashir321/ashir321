@@ -3,7 +3,7 @@
 <h3 align="center">Tech Lead • Architect • AI Enthusiast 🤖 • DevSecOps Engineer 🤿--> Platform Engineering 🔨 • Cloud Automation ☁️ | Securing platforms 🔐 | Scaling AI 🚀Developer By Hobbie</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=200&section=header&text=👨‍💻%20About%20Ashir&fontSize=45&fontColor=00ff99&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=300&section=header&text=👨‍💻%20About%20Ashir&fontSize=45&fontColor=00ff99&animation=fadeIn&desc=I%20am%20a%20DevOps%20%26%20Cloud%20Engineer%20with%20strong%20experience%20designing%2C%20automating%2C%20and%20operating%20production-grade%20cloud%20and%20Kubernetes%20platforms.%20My%20focus%20is%20on%20scalability%2C%20reliability%2C%20security%2C%20and%20automation%20across%20the%20delivery%20lifecycle.&descSize=14&descAlignY=75&descAlign=50" />
 </p>
 
 I am a DevOps & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms. My focus is on scalability, reliability, security, and automation across the delivery lifecycle.
