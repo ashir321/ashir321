@@ -129,8 +129,13 @@
 </p>
 
 ---
-
 ## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-6E56CF?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,githubactions,linux,ubuntu,bash,python,kafka,elasticsearch,grafana,prometheus,git,vscode,ai" />
