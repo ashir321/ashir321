@@ -142,7 +142,7 @@
 
 When I'm off the clock, I'm either on the field or building something new:
 
-- ⚽ **Football & Cricket** — lifelong fan, occasional player
+- ⚽ **Football & Cricket** — lifelong fan, Supporting my team (win or lose)
 - ☕ **Books & Coffee** — the original productivity stack
 - 🍜 **Foodie at Heart** — always hunting for the next great meal
 - 🎬 **Movies & Music** — my favorite background processes
