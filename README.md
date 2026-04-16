@@ -3,7 +3,7 @@
 <h3 align="center">Tech Lead • Architect • AI Enthusiast 🤖 • DevSecOps Engineer 🤿--> Platform Engineering 🔨 • Cloud Automation ☁️ | Securing platforms 🔐 | Scaling AI 🚀Developer By Hobbie</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=250&section=header&text=Sk%Ashir%20Uddin&fontSize=60&fontColor=00ff99&animation=fadeIn&fontAlignY=38&desc=DevSecOps%20%7C%20Cloud%20%7C%20Kubernetes%20%7C%20Automation&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=250&section=header&text=Ashir%20Uddin&fontSize=60&fontColor=00ff99&animation=fadeIn&fontAlignY=38&desc=DevSecOps%20%7C%20Cloud%20%7C%20Kubernetes%20%7C%20Automation&descSize=18&descAlignY=60" />
 </p>
 
 <h3 align="center">👨‍💻 About Me</h3>
