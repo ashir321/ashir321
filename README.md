@@ -9,7 +9,7 @@
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
-  I'm a <b>DevOps & Cloud Engineer</b> with strong experience designing, automating, and operating
+  I'm a <b>Tech Lead • Architect • DevSecOps • Cloud Engineer</b> with strong experience designing, automating, and operating
   <br/>
   production-grade cloud and Kubernetes platforms.
   <br/><br/>
@@ -22,8 +22,8 @@
 
 ### 🛠️ What I Do
 
-- ☸️ **Kubernetes Platforms** — CKA/CKS certified, production cluster design & hardening
-- ☁️ **Cloud Engineering** — Multi-cloud architecture, cost optimization, IaC
+- ☸️ **Kubernetes Platforms** — Production cluster design & hardening
+- ☁️ **Cloud Engineering** — Multi-cloud architecture, cost optimisation, IaC
 - 🔒 **DevSecOps** — Shift-left security, policy-as-code, supply chain hardening
 - 🤖 **Automation** — Ansible, GitOps, CI/CD pipelines, Agentic AI workflows
 - 📡 **SRE & NetOps** — Observability, incident response, network architecture
