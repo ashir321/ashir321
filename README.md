@@ -143,6 +143,9 @@
 When I'm off the clock, I'm either on the field or building something new:
 
 - ⚽ **Football & Cricket** — lifelong fan, occasional player
+- ☕ **Books & Coffee** — the original productivity stack
+- 🍜 **Foodie at Heart** — always hunting for the next great meal
+- 🎬 **Movies & Music** — my favorite background processes
 - 🤖 **AI & Agentic Systems** — exploring LLMs, RAG, and autonomous workflows
 - 📚 **Continuous Learning** — CKA/CKS, cloud, and the next frontier
 
