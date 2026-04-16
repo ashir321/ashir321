@@ -21,9 +21,9 @@
 
 <!-- ============ SOCIAL BADGES ============ -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ashiruddinsk"><img src="https://komarev.com/ghpvc/?username=ashiruddinsk&style=for-the-badge&color=00ff99&label=PROFILE+VIEWS" /></a>
+  <a href="https://linkedin.com/in/skashiruddin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ashiruddin.sk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ashir321"><img src="https://komarev.com/ghpvc/?username=ashir321&style=for-the-badge&color=00ff99&label=PROFILE+VIEWS" /></a>
 </p>
 
 ---
