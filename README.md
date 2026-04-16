@@ -1,32 +1,145 @@
 ![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
-<h1 align="center">Hi 👋, I'm Ashir from India</h1>
-<h3 align="center">Tech Lead • Architect • AI Enthusiast 🤖 • DevSecOps Engineer 🤿--> Platform Engineering 🔨 • Cloud Automation ☁️ | Securing platforms 🔐 | Scaling AI 🚀Developer By Hobbie</h3>
 
+<!-- ============ BANNER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=250&section=header&text=Sk%20Ashir%20Uddin&fontSize=60&fontColor=00ff99&animation=fadeIn&fontAlignY=38&desc=DevSecOps%20%7C%20Cloud%20%7C%20Kubernetes%20%7C%20Automation&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff99&height=250&section=header&text=Sk%20Ashir%20Uddin&fontSize=55&fontColor=00ff99&animation=fadeIn&fontAlignY=38&desc=DevSecOps%20%7C%20Cloud%20%7C%20Kubernetes%20%7C%20Automation&descSize=18&descAlignY=60" />
 </p>
 
-<h3 align="center">👨‍💻 About Me</h3>
+<!-- ============ HEADLINE ============ -->
+<h1 align="center">Hi 👋, I'm Ashir from India</h1>
 
 <p align="center">
-  I'm a <b>Tech Lead • Architect • DevSecOps • Cloud Engineer</b> with strong experience designing, automating, and operating
+  <b>Tech Lead</b> • <b>Architect</b> • <b>DevSecOps Engineer</b> 🔐 • <b>Platform Engineering</b> 🔨 • <b>Cloud Automation</b> ☁️
   <br/>
-  production-grade cloud and Kubernetes platforms.
-  <br/><br/>
-  My focus is on <b>scalability</b>, <b>reliability</b>, <b>security</b>, and <b>automation</b>
-  <br/>
-  across the entire delivery lifecycle.
+  <i>Securing platforms. Scaling AI. Automating everything.</i>
+</p>
+
+<!-- ============ TYPING ANIMATION ============ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Automating+the+cloud%2C+one+pipeline+at+a+time;Kubernetes+%7C+Ansible+%7C+Terraform+%7C+GitOps;CKA+%E2%80%A2+CKS+%E2%80%A2+Platform+Engineer;Agentic+AI+Enthusiast+%F0%9F%A4%96" />
+</p>
+
+<!-- ============ SOCIAL BADGES ============ -->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ashiruddinsk"><img src="https://komarev.com/ghpvc/?username=ashiruddinsk&style=for-the-badge&color=00ff99&label=PROFILE+VIEWS" /></a>
 </p>
 
 ---
 
-### 🛠️ What I Do
+## 👨‍💻 About Me
 
-- ☸️ **Kubernetes Platforms** — Production cluster design & hardening
-- ☁️ **Cloud Engineering** — Multi-cloud architecture, cost optimisation, IaC
-- 🔒 **DevSecOps** — Shift-left security, policy-as-code, supply chain hardening
-- 🤖 **Automation** — Ansible, GitOps, CI/CD pipelines, Agentic AI workflows
-- 📡 **SRE & NetOps** — Observability, incident response, network architecture
+<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+🔭 I'm a **Tech Lead, Architect & DevSecOps Engineer** with deep experience designing, automating, and operating production-grade cloud and Kubernetes platforms.
+
+🎯 My focus is on **scalability**, **reliability**, **security**, and **automation** across the entire delivery lifecycle.
+
+🤖 Passionate about **Agentic AI**, platform engineering, and building self-service developer experiences.
+
+🌱 Currently exploring: **AI-driven automation**, **eBPF observability**, and **GitOps at scale**.
+
+💬 Ask me about: `Kubernetes` · `Terraform` · `Ansible` · `CI/CD` · `Cloud Security` · `SRE`
+
+---
+
+## 🛠️ What I Do
+
+| Domain | Focus Areas |
+|--------|-------------|
+| ☸️ **Kubernetes Platforms** | Production cluster design, hardening, multi-tenancy, CKA/CKS practices |
+| ☁️ **Cloud Engineering** | Multi-cloud architecture, cost optimisation, Infrastructure as Code |
+| 🔒 **DevSecOps** | Shift-left security, policy-as-code, supply chain hardening, SBOM |
+| 🤖 **Automation** | Ansible, GitOps, CI/CD pipelines, Agentic AI workflows |
+| 📡 **SRE & NetOps** | Observability, incident response, SLO/SLI, network architecture |
+
+---
+
+## 🧰 Tech Stack
+
+### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" />
+</p>
+
+### ☸️ Containers & Orchestration
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
+</p>
+
+### 🔐 DevSecOps & Security
+<p>
+  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPA-7B61FF?style=for-the-badge&logo=openpolicyagent&logoColor=white" />
+  <img src="https://img.shields.io/badge/Falco-00B4D8?style=for-the-badge&logo=falco&logoColor=white" />
+</p>
+
+### 🤖 Automation & CI/CD
+<p>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
+
+### 📊 Observability
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+</p>
+
+### 💻 Languages & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashiruddinsk&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiruddinsk&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiruddinsk&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashiruddinsk&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashiruddinsk/ashiruddinsk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<!-- ============ FOOTER WAVE ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=120&section=footer" />
+</p>
 
 ---
 
