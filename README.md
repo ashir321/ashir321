@@ -118,7 +118,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashir321k&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ashir321&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -130,7 +130,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashiruddinsk/ashiruddinsk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ashir321/ashir321/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -145,20 +145,6 @@
 ## 🛠 Languages and Tools
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,ai,kubernetes,docker,jenkins,python,git,gitlab,github,linux,ubuntu,kafka,elasticsearch,terraform,ansible" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashir321&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashir321&layout=compact&theme=tokyonight" />
-</p>
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashir321" />
 </p>
 
 ---
