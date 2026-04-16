@@ -121,10 +121,6 @@
   <img src="https://streak-stats.demolab.com?user=ashir321&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashir321&theme=radical&hide_border=true" />
-</p>
-
 ---
 
 ## 🐍 Contribution Graph
