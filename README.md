@@ -3,10 +3,30 @@
 <h3 align="center">Tech Lead • Architect • AI Enthusiast 🤖 • DevSecOps Engineer 🤿--> Platform Engineering 🔨 • Cloud Automation ☁️ | Securing platforms 🔐 | Scaling AI 🚀Developer By Hobbie</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:00ff99&amp;height=300&amp;section=header&amp;text=👨‍💻%20About%20Ashir&amp;fontSize=45&amp;fontColor=00ff99&amp;animation=fadeIn&amp;desc=I%20am%20a%20DevOps%20%26%20Cloud%20Engineer%20with%20strong%20experience%20designing%2C%20automating%2C%20and%20operating%20production-grade%20cloud%20and%20Kubernetes%20platforms.%20My%20focus%20is%20on%20scalability%2C%20reliability%2C%20security%2C%20and%20automation%20across%20the%20delivery%20lifecycle.&amp;descSize=14&amp;descAlignY=75&amp;descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=250&section=header&text=Ashir%20Uddin&fontSize=60&fontColor=00ff99&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Kubernetes%20%7C%20Automation&descSize=18&descAlignY=60" />
 </p>
 
-I am a DevOps & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms. My focus is on scalability, reliability, security, and automation across the delivery lifecycle.
+<h3 align="center">👨‍💻 About Me</h3>
+
+<p align="center">
+  I'm a <b>DevOps & Cloud Engineer</b> with strong experience designing, automating, and operating
+  <br/>
+  production-grade cloud and Kubernetes platforms.
+  <br/><br/>
+  My focus is on <b>scalability</b>, <b>reliability</b>, <b>security</b>, and <b>automation</b>
+  <br/>
+  across the entire delivery lifecycle.
+</p>
+
+---
+
+### 🛠️ What I Do
+
+- ☸️ **Kubernetes Platforms** — CKA/CKS certified, production cluster design & hardening
+- ☁️ **Cloud Engineering** — Multi-cloud architecture, cost optimization, IaC
+- 🔒 **DevSecOps** — Shift-left security, policy-as-code, supply chain hardening
+- 🤖 **Automation** — Ansible, GitOps, CI/CD pipelines, Agentic AI workflows
+- 📡 **SRE & NetOps** — Observability, incident response, network architecture
 
 ---
 
