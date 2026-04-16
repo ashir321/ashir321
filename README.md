@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1da30b67-8445-4fb6-a3ac-8326b079e196" />
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 <h1 align="center">Hi 👋, I'm Ashir from India</h1>
 <h3 align="center">Tech Lead • Architect • AI Enthusiast 🤖 • DevSecOps Engineer 🤿--> Platform Engineering 🔨 • Cloud Automation ☁️ | Securing platforms 🔐 | Scaling AI 🚀Developer By Hobbie</h3>
 
