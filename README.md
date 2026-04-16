@@ -130,16 +130,21 @@
 
 ---
 
-## 🛠 Languages and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,ai,kubernetes,docker,jenkins,python,git,gitlab,github,linux,ubuntu,kafka,elasticsearch,terraform,ansible" />
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,githubactions,linux,ubuntu,bash,python,kafka,elasticsearch,grafana,prometheus,git,vscode,ai" />
 </p>
 
 ---
 
-## ✨ Fun Facts
-- I love football and cricket.
-- I enjoy building AI and product-focused projects.
+## 🌱 Beyond the Terminal
+
+When I'm off the clock, I'm either on the field or building something new:
+
+- ⚽ **Football & Cricket** — lifelong fan, occasional player
+- 🤖 **AI & Agentic Systems** — exploring LLMs, RAG, and autonomous workflows
+- 📚 **Continuous Learning** — CKA/CKS, cloud certifications, and the next frontier
 
 ---
 <!-- ============ FOOTER WAVE ============ -->
