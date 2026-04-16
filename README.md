@@ -144,7 +144,7 @@ When I'm off the clock, I'm either on the field or building something new:
 
 - ⚽ **Football & Cricket** — lifelong fan, occasional player
 - 🤖 **AI & Agentic Systems** — exploring LLMs, RAG, and autonomous workflows
-- 📚 **Continuous Learning** — CKA/CKS, cloud certifications, and the next frontier
+- 📚 **Continuous Learning** — CKA/CKS, cloud, and the next frontier
 
 ---
 <!-- ============ FOOTER WAVE ============ -->
