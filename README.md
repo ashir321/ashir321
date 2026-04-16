@@ -149,13 +149,6 @@
 
 ---
 
-## 🌐 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/skashiruddin/">LinkedIn</a> •
-</p>
-
----
-
 ## ✨ Fun Facts
 - I love football and cricket.
 - I enjoy building AI and product-focused projects.
