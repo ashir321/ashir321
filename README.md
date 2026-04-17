@@ -6,7 +6,7 @@
 </p>
 
 <!-- ============ HEADLINE ============ -->
-<h1 align="center">Hi 👋, I'm Ashir from India</h1>
+<h1 align="center">Hi 👋, I'm Ashir from Indiaᵏᵒˡ</h1>
 
 <p align="center">
   <b>Tech Lead</b> • <b>Architect</b> • <b>DevSecOps Engineer</b> 🔐 • <b>Platform Engineering</b> 🔨 • <b>Cloud Automation</b> ☁️
