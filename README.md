@@ -138,9 +138,8 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,githubactions,linux,ubuntu,bash,python,kafka,elasticsearch,grafana,prometheus,git,vscode,ai" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,githubactions,linux,ubuntu,bash,python,kafka,elasticsearch,grafana,prometheus,git,vscode,ai,nginx,redis,postgres,mongodb,githubactions,fastapi,flask" />
 </p>
-
 ---
 
 ## 🌱 Beyond the Terminal
