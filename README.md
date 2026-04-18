@@ -18,14 +18,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Automating+the+cloud%2C+one+pipeline+at+a+time;Kubernetes+%7C+Ansible+%7C+Terraform+%7C+GitOps;CKA+%E2%80%A2+CKS+%E2%80%A2+Platform+Engineer;Agentic+AI+Enthusiast+%F0%9F%A4%96" />
 </p>
 
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
+
 <!-- ============ SOCIAL BADGES ============ -->
 <p align="center">
   <a href="https://linkedin.com/in/skashiruddin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ashiruddin.sk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ashir321"><img src="https://komarev.com/ghpvc/?username=ashir321&style=for-the-badge&color=00ff99&label=PROFILE+VIEWS" /></a>
 </p>
-
-![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 ---
 ## 👨‍💻 About Me
 
