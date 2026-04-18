@@ -41,9 +41,9 @@
 
 🎯 My focus is on **scalability**, **reliability**, **security**, and **automation** across the entire delivery lifecycle.
 
-🤖 Passionate about **Agentic AI**, platform engineering, and building self-service developer experiences.
+🤖 Deeply interested in **Agentic AI**, platform engineering, and building self-service developer experiences.
 
-🌱 Currently exploring: **AI-driven automation**, **eBPF observability**, and **GitOps at scale**.
+⚗️ Currently exploring: **AI-driven automation**, **eBPF observability**, and **GitOps at scale**.
 
 💬 Ask me about: `Kubernetes` · `Terraform` · `Ansible` · `CI/CD` · `Cloud Security` · `SRE`
 
