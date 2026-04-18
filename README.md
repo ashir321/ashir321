@@ -23,14 +23,20 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Tech+Lead+%E2%80%A2+Architect+%E2%80%A2+DevSecOps+Lead;Kubernetes+%7C+Docker+%7C+Ansible+%7C+Terraform+%7C+GitOps+%7C+CI%2FCD;Cloud+%26+Platform+Engineering+Expert;Production-Grade+Kubernetes+%7C+Security+Best+Practices;Agentic+AI+Enthusiast+%F0%9F%A4%96" />
 </p>
-
-![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
-
-<!-- ============ SOCIAL BADGES ============ -->
 <p align="center">
-  <a href="https://linkedin.com/in/skashiruddin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ashiruddin.sk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ashir321"><img src="https://komarev.com/ghpvc/?username=ashir321&style=for-the-badge&color=00ff99&label=PROFILE+VIEWS" /></a>
+  <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif" style="border-radius:10px; opacity:0.9;" />
+</p>
+<!-- ============ SOCIAL BADGES (THEME MATCHED) ============ -->
+<p align="center">
+  <a href="https://linkedin.com/in/skashiruddin/">
+    <img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=e2e8f0&labelColor=4f46e5" />
+  </a>
+  <a href="mailto:ashiruddin.sk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=e2e8f0&labelColor=4f46e5" />
+  </a>
+  <a href="https://github.com/ashir321">
+    <img src="https://komarev.com/ghpvc/?username=ashir321&style=for-the-badge&color=4f46e5&label=PROFILE+VIEWS" />
+  </a>
 </p>
 
 ---
