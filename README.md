@@ -1,7 +1,7 @@
 
 <!-- ============ BANNER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff99&height=250&section=header&text=Sk%20Ashir%20Uddin&fontSize=55&fontColor=00ff99&animation=fadeIn&fontAlignY=38&desc=DevSecOps%20%7C%20Cloud%20%7C%20Kubernetes%20%7C%20Automation&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:6366f1&height=250&section=header&text=Sk%20Ashir%20Uddin&fontSize=55&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=DevSecOps%20%7C%20Cloud%20%7C%20Kubernetes%20%7C%20Automation&descSize=18&descAlignY=60" />
 </p>
 
 <!-- ============ HEADLINE ============ -->
@@ -165,5 +165,5 @@ When I'm off the clock, I'm either on the field or building something new:
 ---
 <!-- ============ FOOTER WAVE ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:6366f1&height=120&section=footer" />
 </p>
