@@ -109,7 +109,7 @@
 </p>
 
 ---
-### Activity Graph
+### 📈 Activity Graph
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashir321&color=blueviolet&style=flat-square" />
 </p>
