@@ -5,8 +5,8 @@
 <!-- ============ HEADLINE ============ -->
 <h1 align="center">Hi 👋, I'm Ashir from India ᵏᵒˡ</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Lead-020617?style=for-the-badge&logo=lead&logoColor=d4af37&labelColor=020617" />
-  <img src="https://img.shields.io/badge/Architect-020617?style=for-the-badge&logo=awslambda&logoColor=d4af37&labelColor=020617" />
+  <img src="https://img.shields.io/badge/Tech%20Lead-020617?style=for-the-badge&logo=linux&logoColor=d4af37&labelColor=020617" />
+  <img src="https://img.shields.io/badge/Architect-020617?style=for-the-badge&logo=kubernetes&logoColor=d4af37&labelColor=020617" />
   <img src="https://img.shields.io/badge/DevSecOps%20Lead-020617?style=for-the-badge&logo=githubactions&logoColor=d4af37&labelColor=020617" />
   <img src="https://img.shields.io/badge/Cloud%20%26%20Platform Engineering Expert-020617?style=for-the-badge&logo=googlecloud&logoColor=d4af37&labelColor=020617" />
 </p>
