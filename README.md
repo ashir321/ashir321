@@ -116,7 +116,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashir321&theme=radical" />
 </p>
----
 
 ## 📊 GitHub Stats
 
