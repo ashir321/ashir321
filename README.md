@@ -41,16 +41,23 @@
 💬 Ask me about: `Kubernetes` · `Terraform` · `Ansible` · `CI/CD` · `Cloud Security` · `SRE`
 
 ---
+🛠️ What I Do
 
-## 🛠️ What I Do
+| Domain                    | Focus Areas                                                                                                    |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 🧭 **Tech Lead**          | Leading engineering teams, code quality, system ownership, mentoring developers, driving delivery excellence   |
+| 🏗️ **Tech Architecting** | Designing scalable systems, microservices & distributed architecture, cloud-native patterns, platform strategy |
+| 🔒 **DevSecOps Lead**     | Shift-left security, policy-as-code, supply chain hardening, SBOM, secure CI/CD governance                     |
+| 💡 **Solution Mentoring** | Guiding teams on architecture decisions, design reviews, best practices, and technical problem-solving         |
 
-| Domain | Focus Areas |
-|--------|-------------|
-| ☸️ **Kubernetes Platforms** | Production cluster design, hardening, multi-tenancy, CKA/CKS practices |
-| ☁️ **Cloud Engineering** | Multi-cloud architecture, cost optimisation, Infrastructure as Code |
-| 🔒 **DevSecOps** | Shift-left security, policy-as-code, supply chain hardening, SBOM |
-| 🤖 **Automation** | Ansible, GitOps, CI/CD pipelines, Agentic AI workflows |
-| 📡 **SRE & NetOps** | Observability, incident response, SLO/SLI, network architecture |
+🔧 Core Expertise
+| Domain                      | Focus Areas                                                                      |
+| --------------------------- | -------------------------------------------------------------------------------- |
+| ☸️ **Kubernetes Platforms** | Production cluster design, hardening, multi-tenancy, CKA/CKS practices           |
+| ☁️ **Cloud Engineering**    | Multi-cloud architecture, cost optimisation, Infrastructure as Code              |
+| 🔒 **DevSecOps**            | Shift-left security, policy-as-code, supply chain security, SBOM, CI/CD security |
+| 🤖 **Automation**           | Ansible, GitOps, CI/CD pipelines, Agentic AI workflows                           |
+| 📡 **SRE & NetOps**         | Observability, incident response, SLO/SLI, network architecture                  |
 
 ---
 ## 🧰 Tech Stack
