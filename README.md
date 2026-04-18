@@ -12,10 +12,7 @@
   <img src="https://img.shields.io/badge/DevSecOps%20Lead-020617?style=for-the-badge&logo=githubactions&logoColor=d4af37&labelColor=020617" />
   <img src="https://img.shields.io/badge/Cloud%20%26%20Platform Engineering Expert-020617?style=for-the-badge&logo=googlecloud&logoColor=d4af37&labelColor=020617" />
 </p>
-
-<p align="center" style="color:#9CA3AF; font-style:italic; font-size:15px;">
-  Securing Platforms. Scaling AI. Automating Everything.
-</p>
+<p align="center" style="color: rgba(31, 41, 55, 0.4); font-size:15px;"> Securing Platforms. Scaling AI. Automating Everything. </p>
 
 <!-- ============ TYPING ANIMATION (THEME MATCHED) ============ -->
 <p align="center">
