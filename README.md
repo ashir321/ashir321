@@ -14,11 +14,6 @@
   <img src="https://img.shields.io/badge/Cloud%20%26%20Platform%20Engineering%20Expert-1e293b?style=for-the-badge&logo=googlecloud&logoColor=e2e8f0&labelColor=4f46e5" />
 </p>
 
-<!-- ============ TAGLINE ============ -->
-<p align="center">
-  <strong style="color:#94a3b8;">Securing Platforms. Scaling AI. Automating Everything.</strong>
-</p>
-
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Tech+Lead+%E2%80%A2+Architect+%E2%80%A2+DevSecOps+Lead;Kubernetes+%7C+Docker+%7C+Ansible+%7C+Terraform+%7C+GitOps+%7C+CI%2FCD;Cloud+%26+Platform+Engineering+Expert;Production-Grade+Kubernetes+%7C+Security+Best+Practices;Agentic+AI+Enthusiast+%F0%9F%A4%96" />
@@ -191,4 +186,9 @@ When I'm not building platforms or automating systems, I stay engaged in a few o
 <!-- ============ FOOTER WAVE ============ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:6366f1&height=120&section=footer" />
+</p>
+
+<!-- ============ TAGLINE ============ -->
+<p align="center">
+  <strong style="color:#94a3b8;">Securing Platforms. Scaling AI. Automating Everything.</strong>
 </p>
