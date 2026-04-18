@@ -151,7 +151,7 @@
 </p>
 
 ---
-## 🌱 Beyond the Terminal
+## 🧠 Beyond the Terminal
 
 When I'm off the clock, I'm either on the field or building something new:
 
