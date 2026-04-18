@@ -1,11 +1,9 @@
-
 <!-- ============ BANNER ============ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:6366f1&height=250&section=header&text=Sk%20Ashir%20Uddin&fontSize=55&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20%7C%20Architect&descSize=18&descAlignY=60" />
 </p>
 <!-- ============ HEADLINE ============ -->
 <h1 align="center">Hi 👋, I'm Ashir from India ᵏᵒˡ</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Tech%20Lead-020617?style=for-the-badge&logo=lead&logoColor=d4af37&labelColor=020617" />
   <img src="https://img.shields.io/badge/Architect-020617?style=for-the-badge&logo=awslambda&logoColor=d4af37&labelColor=020617" />
@@ -13,7 +11,6 @@
   <img src="https://img.shields.io/badge/Cloud%20%26%20Platform Engineering Expert-020617?style=for-the-badge&logo=googlecloud&logoColor=d4af37&labelColor=020617" />
 </p>
 <p align="center" style="color: rgba(31, 41, 55, 0.4); font-size:15px;"> Securing Platforms. Scaling AI. Automating Everything. </p>
-
 <!-- ============ TYPING ANIMATION (THEME MATCHED) ============ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Tech+Lead+%E2%80%A2+Architect+%E2%80%A2+DevSecOps+Lead;Kubernetes+%7C+Docker+%7C+Ansible+%7C+Terraform+%7C+GitOps+%7C+CI/CD;Cloud+%26+Platform+Engineering+Expert;Production-Grade+Kubernetes+%7C+Security+Best+Practices;Agentic+AI+Enthusiast+%F0%9F%A4%96" />
