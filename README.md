@@ -1,4 +1,3 @@
-![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 
 <!-- ============ BANNER ============ -->
 <p align="center">
@@ -26,8 +25,8 @@
   <a href="https://github.com/ashir321"><img src="https://komarev.com/ghpvc/?username=ashir321&style=for-the-badge&color=00ff99&label=PROFILE+VIEWS" /></a>
 </p>
 
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 ---
-
 ## 👨‍💻 About Me
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
