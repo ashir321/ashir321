@@ -166,28 +166,26 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Large%20Language%20Models-0A192F?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Autonomous%20AI%20Agents-6C63FF?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-1e293b?style=for-the-badge&logo=openai&logoColor=e2e8f0&labelColor=4f46e5" />
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-1e293b?style=for-the-badge&logo=openai&logoColor=e2e8f0&labelColor=4f46e5" />
+  <img src="https://img.shields.io/badge/Autonomous%20AI%20Agents-1e293b?style=for-the-badge&logo=robotframework&logoColor=e2e8f0&labelColor=4f46e5" />
 </p>
 
-
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,linux,ubuntu,bash,python,kafka,elasticsearch,grafana,prometheus,git,vscode,ai,nginx,redis,postgres,mongodb,githubactions,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,linux,ubuntu,bash,python,kafka,elasticsearch,grafana,prometheus,git,vscode,nginx,redis,postgres,mongodb,githubactions,fastapi,flask" />
 </p>
 
 ---
 ## 🧠 Beyond the Terminal
 
-When I'm off the clock, I'm either on the field or building something new:
+When I'm not building platforms or automating systems, I stay engaged in a few other worlds:
 
-- ⚽ **Football & Cricket** — lifelong fan, Supporting my team (win or lose)
-- ☕ **Books & Coffee** — the original productivity stack
-- 🍜 **Foodie at Heart** — always hunting for the next great meal
-- 🎬 **Movies & Music** — my favorite background processes
-- 🤖 **AI & Agentic Systems** — exploring LLMs, RAG, and autonomous workflows
-- 📚 **Continuous Learning** — CKA/CKS, cloud, and the next frontier
+- ⚽ **Football & Cricket** — lifelong fan, supporting my team through every win and loss  
+- ☕ **Books & Coffee** — the original productivity stack  
+- 🍜 **Food Exploration** — always on the lookout for great food and new experiences  
+- 🎬 **Movies & Music** — my go-to background processes  
+- 🤖 **AI & Agentic Systems** — experimenting with LLMs, RAG, and autonomous workflows  
+- 📚 **Continuous Learning** — actively exploring CKA/CKS, cloud advancements, and emerging tech  
 
 ---
 <!-- ============ FOOTER WAVE ============ -->
