@@ -60,7 +60,7 @@
 
 | Domain | Focus Areas |
 |--------|-------------|
-| 🧭 **Tech Lead** | Leading engineering teams, improving code quality, owning systems, mentoring developers, and driving delivery excellence |
+| 🧭 **Tech Lead** | Leading engineering teams, owning systems, mentoring developers, and driving delivery excellence |
 | 🏗️ **Architect** | Designing scalable systems, microservices, distributed architectures, cloud-native platforms, and engineering strategy |
 | 🔒 **DevSecOps Lead** | Enabling shift-left security, policy-as-code, supply chain hardening, SBOM practices, and secure CI/CD governance |
 | 💡 **Solution Mentoring** | Supporting teams with architecture decisions, design reviews, engineering best practices, and technical problem-solving |
