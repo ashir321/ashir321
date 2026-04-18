@@ -7,10 +7,16 @@
 <!-- ============ HEADLINE ============ -->
 <h1 align="center">Hi 👋, I'm Ashir from India ᵏᵒˡ</h1>
 
-<p align="center">
-  <b>Tech Lead</b> • <b>Architect</b> • <b>DevSecOps Engineer</b> 🔐 • <b>Platform Engineering</b> 🔨 • <b>Cloud Automation</b> ☁️
-  <br/>
-  <i>Securing platforms. Scaling AI. Automating everything.</i>
+<p align="center" style="font-size:16px;">
+  <span style="color:#6366F1;"><b>Tech Lead</b></span> • 
+  <span style="color:#6366F1;"><b>Architect</b></span> • 
+  <span style="color:#6366F1;"><b>DevSecOps Engineer</b></span> • 
+  <span style="color:#6366F1;"><b>Platform Engineering</b></span> • 
+  <span style="color:#6366F1;"><b>Cloud Automation</b></span>
+</p>
+
+<p align="center" style="color:#9CA3AF; font-style:italic; font-size:15px;">
+  Securing Platforms. Scaling AI. Automating Everything.
 </p>
 
 <!-- ============ TYPING ANIMATION (THEME MATCHED) ============ -->
