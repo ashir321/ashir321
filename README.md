@@ -26,6 +26,7 @@
   <a href="mailto:ashiruddin.sk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ashir321"><img src="https://komarev.com/ghpvc/?username=ashir321&style=for-the-badge&color=00ff99&label=PROFILE+VIEWS" /></a>
 </p>
+
 ---
 ## 👨‍💻 About Me
 
