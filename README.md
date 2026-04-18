@@ -11,7 +11,7 @@
   <span style="color:#6366F1;"><b>Tech Lead</b></span> • 
   <span style="color:#6366F1;"><b>Architect</b></span> •  
   <span style="color:#6366F1;"><b>DevSecOps Lead</b></span> •
-  <span style="color:#6366F1;"><b>Cloud & Platform Engineering</b></span>
+  <span style="color:#6366F1;"><b>Cloud & Platform Engineering Expert</b></span>
 </p>
 
 <p align="center" style="color:#9CA3AF; font-style:italic; font-size:15px;">
@@ -20,7 +20,7 @@
 
 <!-- ============ TYPING ANIMATION (THEME MATCHED) ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Tech+Lead+%E2%80%A2+Architect+%E2%80%A2+DevSecOps+Engineer;Kubernetes+%7C+Docker+%7C+Ansible+%7C+Terraform+%7C+GitOps;Cloud+%26+Platform+Engineering+Expert;CKAD+%E2%80%A2+CKA+%E2%80%A2+CKS;Agentic+AI+Enthusiast+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Tech+Lead+%E2%80%A2+Architect+%E2%80%A2+DevSecOps+Lead;Kubernetes+%7C+Docker+%7C+Ansible+%7C+Terraform+%7C+GitOps;Cloud+%26+Platform+Engineering+Expert;CKAD+%E2%80%A2+CKA+%E2%80%A2+CKS;Agentic+AI+Enthusiast+%F0%9F%A4%96" />
 </p>
 
 ![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
