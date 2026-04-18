@@ -9,8 +9,7 @@
 
 <p align="center" style="font-size:16px;">
   <span style="color:#6366F1;"><b>Tech Lead</b></span> • 
-  <span style="color:#6366F1;"><b>Architect</b></span> • 
-  <span style="color:#6366F1;"><b>DevSecOps Engineer</b></span> • 
+  <span style="color:#6366F1;"><b>Architect</b></span> •  
   <span style="color:#6366F1;"><b>Platform Engineering</b></span> • 
   <span style="color:#6366F1;"><b>Cloud Automation</b></span>
 </p>
