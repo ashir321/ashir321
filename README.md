@@ -129,7 +129,6 @@
 </p>
 
 ---
-
 ## 🐍 Contribution Graph
 
 <p align="center">
@@ -140,16 +139,18 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI-6E56CF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-0A192F?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autonomous%20AI%20Agents-6C63FF?style=for-the-badge&logo=robotframework&logoColor=white" />
 </p>
+
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,linux,ubuntu,bash,python,kafka,elasticsearch,grafana,prometheus,git,vscode,ai,nginx,redis,postgres,mongodb,githubactions,fastapi,flask" />
 </p>
 
-
+---
 ## 🌱 Beyond the Terminal
 
 When I'm off the clock, I'm either on the field or building something new:
