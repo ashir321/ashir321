@@ -132,22 +132,27 @@
 
 ---
 ### 📈 Activity Graph
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashir321&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ashir321&color=4f46e5&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashir321&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashir321&bg_color=0f172a&color=4f46e5&line=6366f1&point=94a3b8&area=true&hide_border=true" />
 </p>
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashir321&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashir321&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashir321&show_icons=true&bg_color=0f172a&title_color=4f46e5&icon_color=6366f1&text_color=cbd5e1&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashir321&layout=compact&bg_color=0f172a&title_color=4f46e5&text_color=cbd5e1&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=ashir321&theme=radical&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ashir321&background=0f172a&ring=4f46e5&fire=6366f1&currStreakLabel=cbd5e1&sideLabels=94a3b8&dates=94a3b8&hide_border=true" />
 </p>
 
 ---
