@@ -1,9 +1,8 @@
 
 <!-- ============ BANNER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:6366f1&height=250&section=header&text=Sk%20Ashir%20Uddin&fontSize=55&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=DevSecOps%20%7C%20Cloud%20%7C%20Kubernetes%20%7C%20Automation&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:6366f1&height=250&section=header&text=Sk%20Ashir%20Uddin&fontSize=55&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20%7C%20Architect&descSize=18&descAlignY=60" />
 </p>
-
 <!-- ============ HEADLINE ============ -->
 <h1 align="center">Hi 👋, I'm Ashir from India ᵏᵒˡ</h1>
 
