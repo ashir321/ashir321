@@ -44,35 +44,38 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-🔭 I'm a **Tech Lead, Architect & DevSecOps Engineer** with deep experience designing, automating, and operating production-grade cloud and Kubernetes platforms.
+🔭 I'm a **Tech Lead, Architect & DevSecOps Engineer** focused on building, automating, and operating **production-grade cloud and Kubernetes platforms**.
 
-🎯 My focus is on **scalability**, **reliability**, **security**, and **automation** across the entire delivery lifecycle.
+🎯 I care deeply about **scalability**, **reliability**, **security**, and **automation** across the full software delivery lifecycle.
 
-🤖 Deeply interested in **Agentic AI**, platform engineering, and building self-service developer experiences.
+🤖 I’m highly interested in **Agentic AI**, **platform engineering**, and creating **self-service developer experiences** that empower teams to move faster.
 
 ⚗️ Currently exploring: **AI-driven automation**, **eBPF observability**, and **GitOps at scale**.
 
 💬 Ask me about: `Kubernetes` · `Terraform` · `Ansible` · `CI/CD` · `Cloud Security` · `SRE`
 
 ---
-🛠️ What I Do
 
-| Domain                    | Focus Areas                                                                                                    |
-| ------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 🧭 **Tech Lead**          | Leading engineering teams, code quality, system ownership, mentoring developers, driving delivery excellence   |
-| 🏗️ **Tech Architecting** | Designing scalable systems, microservices & distributed architecture, cloud-native patterns, platform strategy |
-| 🔒 **DevSecOps Lead**     | Shift-left security, policy-as-code, supply chain hardening, SBOM, secure CI/CD governance                     |
-| 💡 **Solution Mentoring** | Guiding teams on architecture decisions, design reviews, best practices, and technical problem-solving         |
+## 🛠️ What I Do
 
-🔧 Core Expertise
-| Domain                      | Focus Areas                                                                      |
-| --------------------------- | -------------------------------------------------------------------------------- |
-| ☸️ **Kubernetes Platforms** | Production cluster design, hardening, multi-tenancy, CKA/CKS practices           |
-| ☁️ **Cloud Engineering**    | Multi-cloud architecture, cost optimisation, Infrastructure as Code              |
-| 🔒 **DevSecOps**            | Shift-left security, policy-as-code, supply chain security, SBOM, CI/CD security |
-| 🤖 **Automation**           | Ansible, GitOps, CI/CD pipelines, Agentic AI workflows                           |
-| 📡 **SRE & NetOps**         | Observability, incident response, SLO/SLI, network architecture                  |
+| Domain | Focus Areas |
+|--------|-------------|
+| 🧭 **Tech Lead** | Leading engineering teams, improving code quality, owning systems, mentoring developers, and driving delivery excellence |
+| 🏗️ **Architect** | Designing scalable systems, microservices, distributed architectures, cloud-native platforms, and engineering strategy |
+| 🔒 **DevSecOps Lead** | Enabling shift-left security, policy-as-code, supply chain hardening, SBOM practices, and secure CI/CD governance |
+| 💡 **Solution Mentoring** | Supporting teams with architecture decisions, design reviews, engineering best practices, and technical problem-solving |
 
+---
+
+## 🔧 Core Expertise
+
+| Domain | Focus Areas |
+|--------|-------------|
+| ☸️ **Kubernetes Platforms** | Production cluster design, hardening, multi-tenancy, and CKA/CKS-aligned practices |
+| ☁️ **Cloud Engineering** | Multi-cloud architecture, cost optimisation, and Infrastructure as Code |
+| 🔒 **DevSecOps** | Shift-left security, policy-as-code, software supply chain security, SBOM, and CI/CD security |
+| 🤖 **Automation** | Ansible, GitOps, CI/CD pipelines, and Agentic AI workflows |
+| 📡 **SRE & NetOps** | Observability, incident response, SLO/SLI practices, and network architecture |
 ---
 ## 🧰 Tech Stack
 
